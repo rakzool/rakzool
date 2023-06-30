@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakzool&label=Profile%20views&color=0e75b6&style=flat-square" alt="rakzool" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakzool" alt="rakzool" /></a> </p>
+<p align="left" style="padding:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakzool" alt="rakzool" /></a> </p>
 
 - 📫 How to reach me **rahulmob.3607@gmail.com**
 
